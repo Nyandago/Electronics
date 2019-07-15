@@ -275,7 +275,7 @@ Resistor ni moja kati ya vifaa vya kielektroniki vinavyotumika sana. Ni nadra sa
    >
    > Mchoro wa sakiti
    >
-   > ![Current Limiting resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\Capture.JPG)
+   > ![Current Limiting resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/Capture.JPG)
    >
    > Thamani ya Limiting Resistor
    >
