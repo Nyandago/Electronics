@@ -10,7 +10,7 @@ typora-root-url: images\resistors
 
 - **Resistor** ni kifaa cha kielektroniki ambacho hupinga mtiririko wa *current* katika sakiti ya umeme. 
 
-  ​                     ![Resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\resistor222.jpg)
+  ​                     ![Resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/resistor222.jpg)
 
 - Upingaji wa mtiririko wa *current* katika sakiti ya umeme inajulikana kama **Resistance** ambayo hupimwa katika **Ohms**.(Ω)
 
@@ -42,19 +42,19 @@ typora-root-url: images\resistors
   >
   >   chukua resistor yako na uunganishe ncha zake mbili kwenye multimeter, waya mweusi wa multimeter uunganishe kwenye ncha moja ya resistor na waya mwekundu wa wa multimeter uunganishe kwenye ncha ya pili ya resistor kisha sogeza 'pointer' ya multimeter kwenye ohms(Ω)-selector halafu usome kwenye display
   >
-  >   ![kupima kiwango cha resistance kwa kutumia multimeter](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\multimeter.jpg)
+  >   ![kupima kiwango cha resistance kwa kutumia multimeter](https://github.com/Nyandago/Electronics/blob/master/images/resistors/multimeter.jpg)
   >
   > 2. Njia ya pili ni kwa kuangalia mpangilio wa rangi 'resistor's color code' 
   >
   > Njia hii inahusisha kuangalia mpangilio wa rangi katika Resistor kisha kulinganisha nafasi yake kweny jedwali, kisha kuchukua nambari ya nafasi yake kwenye jedwali na kupiga hesabu thamani yake ya jumla na kupata kiwango cha resistance chake.
   >
-  > ![resistor color code](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\color code.JPG)
+  > ![resistor color code](https://github.com/Nyandago/Electronics/blob/master/images/resistors/color%20code.JPG)
   >
   > Kwa mfano ufuatao unaonesha namna ya kutambua kiwango cha resistance cha resistor inayoonekana hapo:-
   >
-  > ![resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\yellowVioletRed.jpg)
+  > ![resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/yellowVioletRed.jpg)
   >
-  > ![color code](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\colorcodeee.JPG)
+  > ![color code](https://github.com/Nyandago/Electronics/blob/master/images/resistors/colorcodeee.JPG)
   >
   > - Na hiyo rangi ya **'gold'** ni nafasi ya **'tolerance'** ya resistor ambayo humanisha ni +/- 5% kiwango cha resistance kilichopigiwa hesabu hapo
   > - Lifuatalo ni jedwali linaloonesha color codes 
@@ -90,11 +90,11 @@ typora-root-url: images\resistors
   >
   > - Katika aina hii ya mpangilio resistor kunakua na njia moja endelevu ya current kutokea kwenye chanzo cha umeme kwa resistor zilizopangiliwa mfululizo, ambapo ncha ya pili ya resistor ya kwanza inaunganishwa na ncha ya kwanza ya resistor ya pili kama inavyoonekana kwenye picha hapo chini.
   >
-  > ![resistor mfululizo](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\seriesResistor.JPG)
+  > ![resistor mfululizo](https://github.com/Nyandago/Electronics/blob/master/images/resistors/seriesResistor.JPG)
   >
   > - Muunganiko wa resistor mbili au zaidi unaleta kiwango tofauti cha resistance, hivyo kupata kiwango cha resistance za resistor zilizo katika mfululizo ni kama ifuatavyo
   >
-  > ![resistor mfululizo](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\seriesssss.JPG)
+  > ![resistor mfululizo](https://github.com/Nyandago/Electronics/blob/master/images/resistors/seriesssss.JPG)
   >
   > 2. **Mpangilio wa resistor kwa sambamba**
   >
@@ -104,11 +104,11 @@ typora-root-url: images\resistors
   >
   > 
   >
-  > ![Resistor sambamba](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\parallelResistors.JPG)
+  > ![Resistor sambamba](https://github.com/Nyandago/Electronics/blob/master/images/resistors/parallelResistors.JPG)
   >
   > - Kupata jumla ya kiwango cha resistance katika sakiti sambamba ni kama ifuatavyo.
   >
-  > ![resistor sambamba](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\parallelll.JPG)
+  > ![resistor sambamba](https://github.com/Nyandago/Electronics/blob/master/images/resistors/parallelll.JPG)
 
 
 
@@ -124,13 +124,13 @@ typora-root-url: images\resistors
   >
   > Aina hii ya resistor zinakua na kiwango kimoja cha resistance ambacho hakibadiliki.
   >
-  > ![fixed Resistors](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\fixedResistor.jpg)
+  > ![fixed Resistors](https://github.com/Nyandago/Electronics/blob/master/images/resistors/fixedResistor.jpg)
   >
   > 2. **Resistor zinazobadilika**
   >
   > Aina hii ya resistor zinakua na kiwango cha resistance kinachobadilika ambapo inakua na *knob* inayozunguka kubadilisha kiwango cha resistance.
   >
-  > ![variable resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\variableResistor.jpg)![variable resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\fixed22.jpg)
+  > ![variable resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/variableResistor.jpg)![variable resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/fixed22.jpg)
   >
   > Moja ya matumizi ya aina hii ya resistor ni kwenye sakiti ya kupunguza na kuongeza sauti kwenye Redio.
 
@@ -172,13 +172,13 @@ typora-root-url: images\resistors
   >
   > Aina hizi za resistor zinakua na umbo la silinda na waya ambazo mara nyingi zinakua na ncha mbili zinazotumika kuunganishwa kwenye sakiti. Aina hii za resistor ndio zinazotumika sana.
   >
-  > ![power resistor chini ya watt 5](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\powerResistorsBelow5watts.jpg)
+  > ![power resistor chini ya watt 5](https://github.com/Nyandago/Electronics/blob/master/images/resistors/powerResistorsBelow5watts.jpg)
   >
   > 2. Resistor zinazotoa power zaidi ya watt 5
   >
   > Aina hii za resitor zinatumika katika matumizi ya vifaa vinavyobeba nishati kubwa. pia aina hizi za resistor zina umbo kubwa ukilinganisha na resistor zinazotumia power chini ya watt 5.
   >
-  > ![high power resistors](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\powerResistorsAbove5watts.jpg)
+  > ![high power resistors](https://github.com/Nyandago/Electronics/blob/master/images/resistors/powerResistorsAbove5watts.jpg)
   >
   > 
   >
@@ -190,7 +190,7 @@ typora-root-url: images\resistors
   >
   > Aina hii ya resistor huwa na sehemu maalum ya kuhisi uwepo wa mwanga na resistance yake hupungua na kuongezeka kutokana na mwanga unaohisiwa na resistor hiyo. Mwanga unapoongezeka kiwango cha resistance hupungua.
   >
-  > ![LDR](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\photoresistor.png)
+  > ![LDR](https://github.com/Nyandago/Electronics/blob/master/images/resistors/photoresistor.png)
   >
   > Aina hii ya resistor hutumika maeneo ambayo mwanga una nafasi ya kuleta mabadiliko kwa mfano kwenye kuwasha taa za barabarani jioni ambapo giza huingia.
   >
@@ -198,7 +198,7 @@ typora-root-url: images\resistors
   >
   > Ni aina ya resistor ambazo resistance yake hubadilika kutokana na badiliko ya halijoto.
   >
-  > ![Thermistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\Thermistors.jpg)
+  > ![Thermistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/Thermistors.jpg)
   >
   > Kuna aina mbili ya Thermistor ambazo ni PTC na NTC ambzo, PTC (Positive Temperature Coefficient) ni aina ya thermistor ambayo resistance yake huongezeka na ongezeko la halijoto. NTC(Negative Temperature Coefficient) ni aina ya thermistor ambayo resistance yake hupungua halijoto inavyoongezeka.
   >
@@ -208,7 +208,7 @@ typora-root-url: images\resistors
   >
   > Ni aina ya resistor ambayo resistance yake hutegemea na voltage. voltage inafika kiasi fulani inaongezeka resistance.
   >
-  > ![varistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\varistor.gif)
+  > ![varistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/varistor.jpg)
   >
   > Varistor hutumika kulinda vifaa kama computer visiungue kwa kuongeza resistance mbayo itazuia kupita kwa umeme endapo voltage itagundulika kuwa kubwa zaidi ya voltage inayohitajika na kifaa hicho.
 
@@ -218,7 +218,7 @@ typora-root-url: images\resistors
 
 - Badala ya kuwa na miguu inayochomweka kwenye *PCB* kama resistors za kawaida, SMD Resistor zinachomelewa kwenye sakiti za *PCB* moja kwa moja.
 
-  ![SMD resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\smd-resistors-on-pcb-2599.jpg)
+  ![SMD resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/smd-resistors-on-pcb-2599.jpg)
 
   SMD Resistor ziliundwa kwa lengo la kuzitumia kwenye *printed circuit board* huku vikiwa vifaa vyenye saizi ndogo lakini zenye ufanisi mkubwa na zipatikane kwa urahisi zaidi.
 
@@ -232,7 +232,7 @@ typora-root-url: images\resistors
   >
   > Kwa mfano kiwango cha resistance cha resistor zifuatazo ni kama ifuatavyo:-
   >
-  > ![smd resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\smd.jpg) ![smd2](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\smd2.jpg) 
+  > ![smd resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/smd2.jpg) 
   >
   > i. 105 = 10Ω x $10^5$ = 1000000Ω =$1MΩ$
   >
@@ -240,7 +240,7 @@ typora-root-url: images\resistors
   >
   > Pia SMD zenye R, R huwakilisha nafasi ya desimali katika kuonesha kiwango cha resistance ya resistor husika kama ifauatavyo
   >
-  > ![smd3](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\smd3.jpg)
+  > ![smd3](https://github.com/Nyandago/Electronics/blob/master/images/resistors/smd3.jpg)
   >
   > iii. R010 = $0.010Ω$
   >
@@ -279,7 +279,7 @@ Resistor ni moja kati ya vifaa vya kielektroniki vinavyotumika sana. Ni nadra sa
    >
    > Mchoro wa sakiti
    >
-   > ![Current Limiting resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\Capture.JPG)
+   > ![Current Limiting resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/Capture.JPG)
    >
    > Thamani ya Limiting Resistor
    >
@@ -301,11 +301,11 @@ Resistor ni moja kati ya vifaa vya kielektroniki vinavyotumika sana. Ni nadra sa
 
    > - Hesabu ya voltage divider
    >
-   > ![Voltage Divider](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\math2.JPG)
+   > ![Voltage Divider](https://github.com/Nyandago/Electronics/blob/master/images/resistors/math2.JPG)
    >
    > - ambapo utapata sakiti kama ifuatavyo
    >
-   > ![voltage divider](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\VoltageDivider.JPG)
+   > ![voltage divider](https://github.com/Nyandago/Electronics/blob/master/images/resistors/VoltageDivider.JPG)
 
 
 
@@ -317,4 +317,8 @@ Resistor ni moja kati ya vifaa vya kielektroniki vinavyotumika sana. Ni nadra sa
 
    Ufuatao ni mfano wa pull-down resistor yenye resistance ya 10kΩ kama inavyotumika kwenye Arduino na Switch 
 
+<<<<<<< HEAD
    ![pull down resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\QOVtc.png)# Electronics-Repository
+=======
+   ![pull down resistor](https://github.com/Nyandago/Electronics/blob/master/images/resistors/QOVtc.png)
+>>>>>>> d35b533340e35e015bb89d7ca93374694cccff86
