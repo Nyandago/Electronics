@@ -1,3 +1,7 @@
+---
+typora-root-url: images\resistors
+---
+
 
 
 # RESISTOR
@@ -313,4 +317,4 @@ Resistor ni moja kati ya vifaa vya kielektroniki vinavyotumika sana. Ni nadra sa
 
    Ufuatao ni mfano wa pull-down resistor yenye resistance ya 10kΩ kama inavyotumika kwenye Arduino na Switch 
 
-   ![pull down resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\QOVtc.png)
+   ![pull down resistor](C:\Users\Canny Junior\Documents\GitHub\Electronics\images\resistors\QOVtc.png)# Electronics-Repository
