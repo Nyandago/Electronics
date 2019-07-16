@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+---
+typora-root-url: images\resistors
+---
+
+
+
 # RESISTOR
 
 ## Utangulizi
